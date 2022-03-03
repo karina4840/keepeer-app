@@ -11,8 +11,7 @@
 </div>
  
 ### Description
-- A copy of Google Keep where one can add and remove their notes. 
-- Create multiple notes, add them to the main page, delete them from the main page. 
+- A copy of Google Keep where one can create multiple notes, add them to the main page, and delete after completion.
 - The app styled with **Material-UI** styling library and **CSS**, and deployed with **GitHub Pages**.
                                                     
 ### Screenshots
