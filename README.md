@@ -20,9 +20,8 @@
 <img src="https://github.com/karina4840/keeper-app/blob/gh-pages/img/1.png?raw=true" width=400> <br>
 Expanded input page <br> 
 <img src="https://github.com/karina4840/keeper-app/blob/gh-pages/img/2.png?raw=true" width=400> <br>
-New note added <br>
+New note added** <br>
 <img src="https://github.com/karina4840/keeper-app/blob/gh-pages/img/3.png?raw=true" width=400>  <br>
-<br>
 ***
 
 <div align="center">
