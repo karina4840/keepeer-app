@@ -1,11 +1,11 @@
 # <div align="center"> React Keeper App </div>
 
  <div align="center"> 
+<img src="https://img.shields.io/badge/-React-09D3AC?logo=react&logoColor=white&logoWidth=30">
 <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&logoWidth=30"> 
 <img src="https://img.shields.io/badge/-JavaScript-F0DB4F?logo=javascript&logoColor=white&logoWidth=30">
 <img src="https://img.shields.io/badge/-Node.js-83CD29?logo=node.js&logoColor=white&logoWidth=30">
 <img src="https://img.shields.io/badge/-JSON-000000?logo=json&logoColor=white&logoWidth=30">
-<img src="https://img.shields.io/badge/-React-09D3AC?logo=react&logoColor=white&logoWidth=30">
  <br>
   <a href="https://karina4840.github.io/keeper-app/">App Here</a>
 </div>
